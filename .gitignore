@@ -1,0 +1,7 @@
+# Byte-compiled /opmized / DLL files
+
+__pycache__/
+*.py[cod]
+*Spy.class
+
+*.sqlite3
